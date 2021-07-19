@@ -22,8 +22,7 @@
 
 > ⭐️ Thanks to everyone who starred Daisy, That is the greatest pleasure we have !
 
-### https://daisyproject.studio
-## Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
+## Avaiilable on Telegram as [@DaisyX_01_bot](http://t.me/DaisyX_01_bot)
 
 # 🧙‍♀️ Deploy Guide
 Complete guide on deploying @DaisyXBot's clone on Heroku.
@@ -34,14 +33,14 @@ Complete guide on deploying @DaisyXBot's clone on Heroku.
 
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyX.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dinuraofficial/daisyX)
 
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
 <a href="https://www.youtube.com/watch?v=yar61k_hEHQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 # ❤️ Support
-<a href="https://t.me/DaisySupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/slbotzone"><img src="https://telegra.ph/file/c55a2929ac85d333893a5.jpg"></a>
 <a href="https://t.me/DaisyXupdates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Self-hosting (For Devs) ⚔
@@ -103,7 +102,8 @@ $ python3 -m DaisyX
 - [MissJuliaRobot](https://github.com/MissJuliaRobot) 
 - [HitsukiNetwork](https://github.com/HitsukiNetwork) 
 - [AnimeKaizoku](https://github.com/AnimeKaizoku) 
-- [Dan](https://github.com/delivrance) 
+- [Dan](https://github.com/delivrance)
+- [Dinura](https://github.com/Dinuraofficial)
 - [Lonami](https://github.com/Lonami) 
 - [AioGram Project group](https://github.com/aiogram) 
 
